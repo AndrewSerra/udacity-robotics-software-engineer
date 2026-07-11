@@ -1,0 +1,7 @@
+# Generated files
+**/lib/
+**/bin/
+**/build/
+
+# Editor
+.vscode/
